@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+𝗔𝗻𝘂𝗸𝗮𝗿+𝐭𝐡𝐢𝐬+𝘀𝗶𝗱𝗲+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+Abhinav+𝐭𝐡𝐢𝐬+𝘀𝗶𝗱𝗲+...">
   
  
 > Language usage
